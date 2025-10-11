@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+apscheduler
+email-validator
+mail-parser
+aiosmtplib
+requests
+azure-communication-email
+pytz
+openai
